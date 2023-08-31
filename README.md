@@ -1,9 +1,9 @@
 # my2-Snyder
 # Dylan Snyder
 ### Favorite Vacation Spot: California
-I recently visited California a few weeks ago and it has become one of
+I recently visited California a few weeks ago and it has became one of
 my favorite vacation spots. I went on this trip to meet up with some
-**friends** who live down there. We went around most of the **LA** area and
+**friends** who live down there. We drove around most of the **LA** area and
 later on drove down to **Santa Barbara**. It was cool to be able to see
 Hollywood Bld, it was a little trashy though, and I loved touring universal 
 studios. We drove down to Santa Barbara to visit even more friends that live
