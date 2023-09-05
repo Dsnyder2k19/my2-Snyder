@@ -19,4 +19,8 @@ up with longtime friends, eat great food, and visit many cool places.
 - Touring Universal Studios
 - Going to the beach (sunbathe, swim, kayak)
 - Eat Korean BBQ
+    - Tacos
+    - Burritos
+    - Sushi
+    - Loaded Nachos
 ---
