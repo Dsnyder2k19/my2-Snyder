@@ -15,7 +15,7 @@ I didn't like. Overall the trip was a great experience because I was able to mee
 up with longtime friends, eat great food, and visit many cool places.
 
 ---
-###Vacation Spot Activities
+### Vacation Spot Activities
 - Touring Universal Studios
 - Going to the beach (sunbathe, swim, kayak)
 - Eat Korean BBQ
