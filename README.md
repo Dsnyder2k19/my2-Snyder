@@ -13,3 +13,10 @@ on the ocean, which was nerve-racking for me at first until I realized sharks
 wouldn't attack me. The food was great too, there wasn't a place we ate at that 
 I didn't like. Overall the trip was a great experience because I was able to meet
 up with longtime friends, eat great food, and visit many cool places.
+
+---
+###Vacation Spot Activities
+- Touring Universal Studios
+- Going to the beach (sunbathe, swim, kayak)
+- Eat Korean BBQ
+---
