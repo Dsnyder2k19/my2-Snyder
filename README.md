@@ -24,3 +24,4 @@ up with longtime friends, eat great food, and visit many cool places.
     - Sushi
     - Loaded Nachos
 ---
+[Linked image of myself](https://github.com/Dsnyder2k19/my2-Snyder/blob/main/mystats.md)
