@@ -39,8 +39,8 @@ live games, tv shows, and movies about them.
 | Baseball   | Hitting homeruns is exciting    | 5Hours/Week        |
 
 ---
-> A person who never made a mistake never tried anything new.
+> "A person who never made a mistake never tried anything new."
 *Albert Einstein*
 >
-> We can't solve problems by using the same kind of thinking we used when we created them.
+> "We can't solve problems by using the same kind of thinking we used when we created them."
 *Albert Einstein*
