@@ -25,3 +25,17 @@ up with longtime friends, eat great food, and visit many cool places.
     - Loaded Nachos
 ---
 [Linked image of myself](https://github.com/Dsnyder2k19/my2-Snyder/blob/main/mystats.md)
+
+---
+### Recommended Sports
+My four recommended sports would be Football, Soccer, Basketball, and Baseball. These are
+the four most popular sports in America. These four sports always have constant reruns, 
+live games, tv shows, and movies about them.
+| Sport      | Why It's Recommended            | Average Hours/Week |
+| :--------- | :-------------------------:     | -------------:     |
+| Football   | It's America's favorite sport   | 15Hours/Week       |
+| Soccer     | Most popular sport in the world | 10Hours/Week       |
+| Basketball | Satisfying to watch dunking     | 10Hours/Week       |
+| Baseball   | Hitting homeruns is exciting    | 5Hours/Week        |
+
+---
