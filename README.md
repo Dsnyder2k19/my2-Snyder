@@ -41,5 +41,6 @@ live games, tv shows, and movies about them.
 ---
 > A person who never made a mistake never tried anything new.
 *Albert Einstein*
+>
 > We can't solve problems by using the same kind of thinking we used when we created them.
 *Albert Einstein*
