@@ -44,3 +44,15 @@ live games, tv shows, and movies about them.
 >
 > "We can't solve problems by using the same kind of thinking we used when we created them."
 *Albert Einstein*
+
+---
+### Code Fencing
+
+> I'm trying to create a typewriter function for a school project and i'm not sure why its not working.
+[Stack Overflow Question](https://stackoverflow.com/questions/63282120/how-to-create-typewriter-effect)
+
+'<div class="typewriter">
+  <h1>The cat and the hat.</h1>
+</div>'
+
+[Snippet Source](https://css-tricks.com/snippets/css/typewriter-effect/)
