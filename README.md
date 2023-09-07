@@ -39,6 +39,8 @@ live games, tv shows, and movies about them.
 | Baseball   | Hitting homeruns is exciting    | 5Hours/Week        |
 
 ---
+### Favorite Quotes
+
 > "A person who never made a mistake never tried anything new."
 *Albert Einstein*
 >
